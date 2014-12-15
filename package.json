@@ -1,0 +1,19 @@
+{
+  "name": "test-webcamstream",
+  "version": "1.0.0",
+  "description": "Stream your webcam through animated gif in realtime.",
+  "main": "app.js",
+  "private": true,
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^1.1.6",
+    "gifencoder": "^1.0.5",
+    "png": "^3.0.3",
+    "v4l2camera": "^0.4.3"
+  }
+}
